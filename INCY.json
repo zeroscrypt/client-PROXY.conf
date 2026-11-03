@@ -1,0 +1,22 @@
+{
+  "Name": "Russia Direct",
+  "GlobalProxy": "true",
+  "DirectSites": [
+    "geosite:ru",
+    "geosite:private"
+  ],
+  "DirectIp": [
+    "geoip:ru",
+    "geoip:private",
+    "10.0.0.0/8",
+    "172.16.0.0/12",
+    "192.168.0.0/16"
+  ],
+  "ProxySites": [],
+  "ProxyIp": [],
+  "BlockSites": [
+    "geosite:category-ads"
+  ],
+  "BlockIp": [],
+  "DomainStrategy": "IPIfNonMatch"
+}
