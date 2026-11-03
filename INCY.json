@@ -3,7 +3,9 @@
   "GlobalProxy": "true",
   "DirectSites": [
     "geosite:ru",
-    "geosite:private"
+    "geosite:private",
+    "gosuslugi.ru",
+    "esia.gosuslugi.ru"
   ],
   "DirectIp": [
     "geoip:ru",
