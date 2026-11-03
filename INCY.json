@@ -11,11 +11,19 @@
     "ozon.ru",
     "www.ozon.ru",
     "seller.ozon.ru",
+    "gov.ru",
     "m.ozon.ru"
   ],
   "DirectIp": [
     "geoip:ru",
     "geoip:private"
+  ],
+  "ProxySites": [
+    "geosite:youtube",
+    "youtube.com",
+    "youtu.be",
+    "googlevideo.com",
+    "ytimg.com"
   ],
   "BlockSites": [
     "geosite:category-ads"
