@@ -86,10 +86,34 @@
     "37.130.192.0/22",
     "185.45.80.0/22"
   ],
-  "ProxySites": [],
+  "ProxySites": [
+    "geosite:telegram",
+    "geosite:instagram",
+    "geosite:youtube",
+    "geosite:openai",
+    "geosite:anthropic",
+    "geosite:google-gemini",
+    "t.me",
+    "telegram.org",
+    "instagram.com",
+    "cdninstagram.com",
+    "youtube.com",
+    "youtu.be",
+    "googlevideo.com",
+    "ytimg.com",
+    "chatgpt.com",
+    "openai.com",
+    "claude.ai",
+    "anthropic.com",
+    "gemini.google.com"
+  ],
   "ProxyIp": [],
   "BlockSites": [
-    "geosite:category-ads-all"
+    "geosite:category-ads-all",
+    "geosite:category-porn",
+    "geosite:category-gambling",
+    "geosite:category-malware",
+    "geosite:category-phishing"
   ],
   "BlockIp": [],
   "Geositeurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
