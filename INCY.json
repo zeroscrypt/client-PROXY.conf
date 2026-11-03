@@ -4,7 +4,6 @@
   "DomainStrategy": "IPIfNonMatch",
   "DirectSites": [
     "geosite:private",
-    "pawtouch.pw",
     "gosuslugi.ru",
     "esia.gosuslugi.ru",
     "gov.ru",
