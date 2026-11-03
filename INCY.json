@@ -4,6 +4,7 @@
   "DomainStrategy": "IPIfNonMatch",
   "DirectSites": [
     "geosite:private",
+    "pawtouch.pw",
     "gosuslugi.ru",
     "esia.gosuslugi.ru",
     "gov.ru",
@@ -74,6 +75,7 @@
   ],
   "DirectIp": [
     "geoip:ru",
+    "31.76.44.155/32",
     "10.0.0.0/8",
     "172.16.0.0/12",
     "192.168.0.0/16",
