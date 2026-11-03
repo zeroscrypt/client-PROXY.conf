@@ -1,5 +1,5 @@
 {
-  "Name": "RU-Proxy-Default (from SR)",
+  "Name": "Default",
   "GlobalProxy": "true",
   "DomainStrategy": "IPIfNonMatch",
   "DirectSites": [
