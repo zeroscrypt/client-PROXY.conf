@@ -1,22 +1,18 @@
 {
   "Name": "Russia Direct",
   "GlobalProxy": "true",
+  "Geositeurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
+  "Geoipurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat",
   "DirectSites": [
-    "geosite:private",
-    "*.gosuslugi.ru",
-    "esia.gosuslugi.ru"
+    "geosite:ru",
+    "geosite:private"
   ],
   "DirectIp": [
-    "geoip:private",
-    "10.0.0.0/8",
-    "172.16.0.0/12",
-    "192.168.0.0/16"
+    "geoip:ru",
+    "geoip:private"
   ],
-  "ProxySites": [],
-  "ProxyIp": [],
   "BlockSites": [
     "geosite:category-ads"
   ],
-  "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch"
 }
