@@ -110,8 +110,7 @@
   "ProxyIp": [],
   "BlockSites": [
     "geosite:category-ads-all",
-    "geosite:category-porn",
-    "geosite:category-phishing"
+    "geosite:category-porn"
   ],
   "BlockIp": [],
   "Geositeurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
