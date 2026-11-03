@@ -4,7 +4,7 @@
   "DirectSites": [
     "geosite:ru",
     "geosite:private",
-    "gosuslugi.ru",
+    "*.gosuslugi.ru",
     "esia.gosuslugi.ru"
   ],
   "DirectIp": [
