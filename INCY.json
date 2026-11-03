@@ -5,7 +5,13 @@
   "Geoipurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat",
   "DirectSites": [
     "geosite:ru",
-    "geosite:private"
+    "geosite:private",
+    "gosuslugi.ru",
+    "esia.gosuslugi.ru",
+    "ozon.ru",
+    "www.ozon.ru",
+    "seller.ozon.ru",
+    "m.ozon.ru"
   ],
   "DirectIp": [
     "geoip:ru",
