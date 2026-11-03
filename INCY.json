@@ -2,13 +2,11 @@
   "Name": "Russia Direct",
   "GlobalProxy": "true",
   "DirectSites": [
-    "geosite:ru",
     "geosite:private",
     "*.gosuslugi.ru",
     "esia.gosuslugi.ru"
   ],
   "DirectIp": [
-    "geoip:ru",
     "geoip:private",
     "10.0.0.0/8",
     "172.16.0.0/12",
