@@ -123,6 +123,7 @@
     "geosite:category-porn"
   ],
   "BlockIp": [],
+  
   "Geositeurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
   "Geoipurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat"
 }
