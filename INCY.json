@@ -79,11 +79,13 @@
     "aimdt.com",
     "sibgenco.ru",
     "ntk-corp.ru",
-    "pawtouch.pw"
+    "pawtouch.pw",
+    "cdn.pawtouch.pw"
   ],
   "DirectIp": [
     "geoip:ru",
     "31.76.44.155/32",
+    "2.26.117.130/32",
     "10.0.0.0/8",
     "172.16.0.0/12",
     "192.168.0.0/16",
