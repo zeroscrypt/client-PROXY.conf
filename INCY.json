@@ -11,6 +11,10 @@
   "DomesticDNSIP": "77.88.8.8",
   "FakeDNS": "false",
 
+  "DnsHosts": {
+    "cloudflare-dns.com": "1.1.1.1"
+  },
+
   "DirectSites": [
     "geosite:private",
     "gosuslugi.ru",
@@ -117,7 +121,9 @@
     "anthropic.com",
     "gemini.google.com"
   ],
-  "ProxyIp": [],
+  "ProxyIp": [
+    "geoip:telegram"
+  ],
   "BlockSites": [
     "geosite:category-ads-all",
     "geosite:category-porn"
